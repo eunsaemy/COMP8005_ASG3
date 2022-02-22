@@ -8,4 +8,6 @@ DESCRIPTION
 
 ```python server.py```
 
-### To run 
+### To run client.py:
+
+```python client.py```
